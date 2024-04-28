@@ -12,7 +12,7 @@ Blogicraft represents the culmination of their internship journey, showcasing th
 
 <img src="https://github.com/khissdhave/CODSOFT/assets/102579929/d5e0129b-5aaa-48f4-9b54-3568c430da5a" alt="Landing page" width="100%">
 
-[Live Demo](http://blogicraft.onrender.com/) - Note: It ha been deployed using a free instance so it might take a while to load(Also, it'll go down after 3 months so if you can't access it after the 3 months, that's probably why)
+[Live Demo](http://blogicraft.onrender.com/) - Note: It has been deployed using a free instance so it might take a while to load (Also, it'll go down after 3 months so if you can't access it after the 3 months, that's probably why)
 
 
 
