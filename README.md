@@ -3,7 +3,7 @@
 # Blogicraft: Craft Your Blogosphere ✍️
 
 Blogicraft is a full-fledged blogging website built with modern technologies, allowing you to express yourself and connect with a community of fellow bloggers.
-It is the brainchild of an individual, developed as product of their project-based internship at Codsoft. This full-fledged blogging website is a 
+It is the brainchild of an individual, developed as a product of their project-based internship at Codsoft. This full-fledged blogging website is a 
 testament to their dedication and proficiency in modern technologies. Crafted with meticulous attention to detail, Blogicraft provides users with a platform to 
 express their thoughts, ideas, and experiences while fostering connections within a vibrant community of fellow bloggers. With its intuitive interface and robust 
 features, including user accounts, content creation tools, a dynamic comment system, and seamless tag filtering and search functionalities, Blogicraft offers an 
@@ -11,8 +11,8 @@ immersive and engaging experience for both creators and readers alike. Rooted in
 Blogicraft represents the culmination of their internship journey, showcasing their talents and contributions to the realm of web development.
 
 <img src="https://github.com/khissdhave/CODSOFT/assets/102579929/d5e0129b-5aaa-48f4-9b54-3568c430da5a" alt="Landing page" width="100%">
-
-[Live Demo](http://blogicraft.onrender.com/) - Note: It has been deployed using a free instance so it might take a while to load (Also, it'll go down after 3 months so if you can't access it after the 3 months, that's probably why)
+<!--
+[Live Demo](http://blogicraft.onrender.com/) - Note: It has been deployed using a free instance so it might take a while to load (Also, it'll go down after 3 months so if you can't access it after the 3 months, that's probably why) -->
 
 
 
